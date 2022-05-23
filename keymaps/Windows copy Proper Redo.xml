@@ -1,0 +1,26 @@
+<keymap version="1" name="Windows copy Proper Redo" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.TogglePathBar" />
+  <action id="InsertLiveTemplate" />
+  <action id="ParameterInfo" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
+  <action id="UsageFiltering.WriteAccess" />
+</keymap>
