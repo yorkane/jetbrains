@@ -12,15 +12,24 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CodeCompletionGroup">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathBar" />
+  <action id="Generate.Missing.Members.ES6" />
+  <action id="Generate.Missing.Members.TypeScript" />
+  <action id="ImplementMethods" />
   <action id="InsertLiveTemplate" />
+  <action id="MethodHierarchy.ImplementMethodAction" />
   <action id="ParameterInfo" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
+  <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.WriteAccess" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
 </keymap>

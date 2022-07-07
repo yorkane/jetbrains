@@ -1,0 +1,6 @@
+<application>
+  <component name="OrchideApplication">
+    <option name="fileTypePatternMigratedBugfix1" value="true" />
+    <option name="fileTypePatternMigratedForCollections" value="true" />
+  </component>
+</application>

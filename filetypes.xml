@@ -2,16 +2,19 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="placeholder" type="AUTO_DETECTED" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
-      <mapping ext="yaml" type="YAML_EX" />
-      <mapping ext="yml" type="YAML_EX" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="j2" approved="true" type="HTML" />
+      <removed_mapping ext="j2" approved="true" type="OrchideJinja2" />
+      <removed_mapping ext="j2" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="j2" approved="true" type="YAML_EX" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
