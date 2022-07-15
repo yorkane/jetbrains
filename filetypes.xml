@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="placeholder" type="AUTO_DETECTED" />
       <mapping ext="j2" type="Jinja2" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
