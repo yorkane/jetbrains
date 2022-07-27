@@ -9,6 +9,7 @@
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="j2" approved="true" type="HTML" />
       <removed_mapping ext="j2" approved="true" type="OrchideJinja2" />
