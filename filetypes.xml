@@ -6,6 +6,7 @@
       <mapping pattern="placeholder" type="AUTO_DETECTED" />
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
